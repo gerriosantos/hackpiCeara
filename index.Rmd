@@ -1,0 +1,35 @@
+---
+title: "**HackPI**"
+author: "**Gerrio Barbosa**"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+    html_document
+# self_contained: false
+# theme: united
+# highlight: textmate
+# fontfamily: mathpazo
+# fontsize: '30pt'
+---
+
+
+# **Base de Dados**
+
+- As bases de dados são do Laboratório de [Estudos em Economia e Pesquisa Social (LEPES)](http://lepes.fearp.usp.br/).
+
+
+<!-- background-image: url(todo_slide.png) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
